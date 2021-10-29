@@ -35,7 +35,7 @@
         <h6>                                      .  </h6>
         <h6>                                      .  </h6>
         <h6>                                      .  </h6>
-        </h2>nama: Abdul Ghani Putra Permana</h2>
+        <h2>nama: Abdul Ghani Putra Permana</h2>
         <h2>kelas: 7A R1</h2>
         <h2>alamat: pindad wirayasa no12B</h2>
         <h2>Gmail: kucingfamily34@gmail.com</h2>
