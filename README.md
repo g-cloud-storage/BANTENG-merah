@@ -35,10 +35,18 @@
         <h6>                                      .  </h6>
         <h6>                                      .  </h6>
         <h6>                                      .  </h6>
-        <h2>nama: Abdul Ghani Putra Permana</h2>
+        </h2>nama: Abdul Ghani Putra Permana</h2>
         <h2>kelas: 7A R1</h2>
         <h2>alamat: pindad wirayasa no12B</h2>
         <h2>Gmail: kucingfamily34@gmail.com</h2>
         <h2>hobby: main sepedah</h2>
+        <h6>                                      .  </h6>
+        <h6>                                      .  </h6>
+        <h6>                                      .  </h6>
+        <h2>Nama: Andikha rizky subagja</h2>
+        <h2>Kelas: 7A ruang 1</h2>
+        <h2>Alamat: Houkeri 9a kec arcamanik kel cisaranten kulon</h2>
+        <h2>Gmail: Andikharizkysubagja@gmail.com</h2>
+        <h2>Hoby: maen game dan maen bola</h2>
     </body>
 </html>
